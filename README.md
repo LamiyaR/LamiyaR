@@ -45,4 +45,4 @@ An interactive **book-selling platform** with live community chat, personalized 
 
 
 
-⭐️ *"Code is the paintbrush, AI is the canvas — together, we can create a better future."*  
+⭐️ *Code is the paintbrush, AI is the canvas, together, we can create a better future.*  
